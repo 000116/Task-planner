@@ -7,16 +7,8 @@
 
 **Modern, minimalist ve kullanıcı dostu görev yönetim uygulaması.**
 
-React 19 ve Tailwind CSS kullanılarak geliştirilen bu proje, kullanıcıların günlük görevlerini organize etmelerine yardımcı olur. "Soft UI" (Neumorphism) tasarım dili ile göz yormayan, pastel tonlarda estetik bir arayüz sunar.
+React 19 ve Tailwind CSS kullanılarak geliştirilen bu proje, kullanıcıların günlük görevlerini organize etmelerine yardımcı olur.
 
----
-
-## 📸 Proje Ekran Görüntüsü
-
-![Uygulama Ekran Görüntüsü](./public/screenshot.png)
-*(Not: Lütfen projenin çalışan halinin ekran görüntüsünü alıp public klasörüne ekleyin ve adını screenshot.png yapın)*
-
----
 
 ## ✨ Özellikler
 
