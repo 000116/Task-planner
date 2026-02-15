@@ -13,7 +13,6 @@ React 19 ve Tailwind CSS kullanılarak geliştirilen bu proje, kullanıcıların
 ## Özellikler
 
 Bu proje, modern web geliştirme standartlarına uygun olarak aşağıdaki yeteneklere sahiptir:
-
 * **Tam CRUD Desteği:** Görev Ekleme, Listeleme, Güncelleme ve Silme işlemleri.
 * **Akıllı Filtreleme:** Görevleri "Tümü", "Aktif" ve "Tamamlanan" olarak filtreleyebilme.
 * **Kalıcı Veri (Persistence):** `LocalStorage` entegrasyonu sayesinde sayfa yenilense bile veriler kaybolmaz.
