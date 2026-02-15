@@ -10,7 +10,7 @@
 React 19 ve Tailwind CSS kullanılarak geliştirilen bu proje, kullanıcıların günlük görevlerini organize etmelerine yardımcı olur.
 
 
-## ✨ Özellikler
+## Özellikler
 
 Bu proje, modern web geliştirme standartlarına uygun olarak aşağıdaki yeteneklere sahiptir:
 
@@ -23,7 +23,7 @@ Bu proje, modern web geliştirme standartlarına uygun olarak aşağıdaki yeten
 
 ---
 
-## 🛠️ Teknolojiler ve Kütüphaneler
+## Teknolojiler ve Kütüphaneler
 
 Proje geliştirilirken kullanılan teknoloji yığını:
 
@@ -35,7 +35,7 @@ Proje geliştirilirken kullanılan teknoloji yığını:
 
 ---
 
-## 🚀 Kurulum ve Çalıştırma
+## Kurulum ve Çalıştırma
 
 Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin:
 
@@ -60,7 +60,7 @@ Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin:
 
 ---
 
-## 📂 Dosya Yapısı
+## Dosya Yapısı
 
 Proje, sürdürülebilirlik ve ölçeklenebilirlik için modüler bir yapıda tasarlanmıştır:
 
