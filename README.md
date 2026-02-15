@@ -76,4 +76,4 @@ src/
 └── main.jsx          # Uygulama giriş noktası
 ```
 
-Netlify linki: task-planner-ennur.netlify.app
+[![Netlify Status](https://img.shields.io/badge/Canlı_Demo-Visit_Site-success?style=for-the-badge&logo=netlify)](https://task-planner-ennur.netlify.app)
