@@ -74,3 +74,6 @@ src/
 │   └── Main.jsx      # Ana sayfa ve state yönetimi
 ├── App.jsx           # Ana uygulama konteyneri
 └── main.jsx          # Uygulama giriş noktası
+```
+
+Netlify linki: task-planner-ennur.netlify.app
